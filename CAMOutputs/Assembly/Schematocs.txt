@@ -1,0 +1,8 @@
+Partlist exported from C:/Users/qiuti/Desktop/EDES 301/Schematocs.sch at 12/20/2024 4:52 AM
+
+Qty Value             Device            Package        Parts                              Description   
+1   F-1X04-SIP-100-32 F-1X04-SIP-100-32 SIP-100-04-32  I2C_DISPLAY                        FEMALE HEADER 
+1   F-1X05-SIP-100-32 F-1X05-SIP-100-32 SIP-100-05-32  ROTARY_ENCODER                     FEMALE HEADER 
+3   FIDUCIAL          FIDUCIAL          FIDUCIAL_40MIL FUD1, FUD2, FUD3                                 
+2   M-1X06-SIP-100-32 M-1X06-SIP-100-32 SIP-100-06-32  ULN2003A_BOARD_1, ULN2003A_BOARD_2 MALE HEADER   
+1   POCKETBEAGLE      POCKETBEAGLE      POCKETBEAGLE   U1                                               
