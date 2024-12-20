@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -1499,7 +1499,6 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 </instance>
 <instance part="FRAME1" gate="G$1" x="-43.18" y="-76.2" smashed="yes"/>
 <instance part="ULN2003A_BOARD_1" gate="G$1" x="104.14" y="149.86" smashed="yes">
-<attribute name="VALUE" x="102.87" y="137.16" size="1.778" layer="96"/>
 <attribute name="NAME" x="102.87" y="158.242" size="1.778" layer="95"/>
 </instance>
 <instance part="GND1" gate="1" x="-22.86" y="93.98" smashed="yes">
@@ -1515,7 +1514,6 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 <attribute name="VALUE" x="78.74" y="151.384" size="1.778" layer="96" align="center"/>
 </instance>
 <instance part="ULN2003A_BOARD_2" gate="G$1" x="200.66" y="149.86" smashed="yes">
-<attribute name="VALUE" x="199.39" y="137.16" size="1.778" layer="96"/>
 <attribute name="NAME" x="199.39" y="158.242" size="1.778" layer="95"/>
 </instance>
 <instance part="SUPPLY3" gate="G$1" x="165.1" y="147.32" smashed="yes">
@@ -1525,11 +1523,9 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 <attribute name="VALUE" x="182.88" y="137.16" size="1.778" layer="96"/>
 </instance>
 <instance part="I2C_DISPLAY" gate="G$1" x="104.14" y="101.6" smashed="yes">
-<attribute name="VALUE" x="102.87" y="91.44" size="1.778" layer="96"/>
 <attribute name="NAME" x="102.87" y="107.442" size="1.778" layer="95"/>
 </instance>
 <instance part="ROTARY_ENCODER" gate="G$1" x="200.66" y="99.06" smashed="yes">
-<attribute name="VALUE" x="199.39" y="88.9" size="1.778" layer="96"/>
 <attribute name="NAME" x="199.39" y="107.442" size="1.778" layer="95"/>
 </instance>
 <instance part="GND4" gate="1" x="83.82" y="99.06" smashed="yes">
