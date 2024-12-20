@@ -12,9 +12,9 @@ This project is an extension of Project 1, where we developed a system using a P
 ### Installing
 A step-by-step series of examples that tell you how to get a development environment running:
 
-- **Clone the repo to your local machine.
-- **Ensure you have a suitable PCB fabricator ready to produce the board.
-- **Gather all necessary components as listed in the documentation.
+- Clone the repo to your local machine.
+- Ensure you have a suitable PCB fabricator ready to produce the board.
+- Gather all necessary components as listed in the documentation.
 
 - ## Usage
 
