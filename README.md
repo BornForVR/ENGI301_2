@@ -8,12 +8,6 @@ This project is an extension of Project 1, where we developed a system using a P
 - **Male Connectors**: To connect two stepper motor drive boards.
 - **Simplified Wiring**: Reduces the clutter and potential errors associated with manual wiring.
 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-What things you need to install the software and how to install them:
-
 
 ### Installing
 A step-by-step series of examples that tell you how to get a development environment running:
@@ -32,7 +26,6 @@ Connect the PocketBeagle according to the schematic provided.
 
 ## Built With
 - **Eagle PCB Design Software** - Used to create the PCB layout.
-
 
 
 ## Acknowledgments
